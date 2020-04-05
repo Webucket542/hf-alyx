@@ -34,19 +34,13 @@ header {
 	transition: none;
 	position: relative;
 }
-/*
-.rectangle_bg {
-  background-image: url(img/bg.jpg);
-  position: absolute;
-  left: -1px;
-  top: 130px;
-  width: 1920px;
-  height: 1030px;
-}*/
+
+a:hover {
+	color: #fff;
+}
 
 .title1 {
 	font-size: 60px;
-	/*font-family: =???;*/
 	margin: 200 auto;
 	color: #ff7200;
 	text-align: center;
